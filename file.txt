@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 meow
+=======
+hello
+
+>>>>>>> ConflictedBranch
